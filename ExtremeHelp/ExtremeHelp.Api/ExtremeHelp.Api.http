@@ -1,0 +1,6 @@
+@ExtremeHelp.Api_HostAddress = http://localhost:5222
+
+GET {{ExtremeHelp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

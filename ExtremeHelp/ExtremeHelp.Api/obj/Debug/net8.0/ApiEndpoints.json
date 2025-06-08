@@ -1,0 +1,329 @@
+[
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.AlertasController",
+    "Method": "GetAlertas",
+    "RelativePath": "api/Alertas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ExtremeHelp.Api.Models.Alerta, ExtremeHelp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.AlertasController",
+    "Method": "PostAlerta",
+    "RelativePath": "api/Alertas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "ExtremeHelp.Api.Models.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExtremeHelp.Api.Models.Alerta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.AlertasController",
+    "Method": "GetAlerta",
+    "RelativePath": "api/Alertas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExtremeHelp.Api.Models.Alerta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.AlertasController",
+    "Method": "PutAlerta",
+    "RelativePath": "api/Alertas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "alerta",
+        "Type": "ExtremeHelp.Api.Models.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.AlertasController",
+    "Method": "DeleteAlerta",
+    "RelativePath": "api/Alertas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaCategoriasController",
+    "Method": "GetDicaCategorias",
+    "RelativePath": "api/DicaCategorias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ExtremeHelp.Api.Models.DicaCategoria, ExtremeHelp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaCategoriasController",
+    "Method": "PostDicaCategoria",
+    "RelativePath": "api/DicaCategorias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dicaCategoria",
+        "Type": "ExtremeHelp.Api.Models.DicaCategoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExtremeHelp.Api.Models.DicaCategoria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaCategoriasController",
+    "Method": "GetDicaCategoria",
+    "RelativePath": "api/DicaCategorias/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExtremeHelp.Api.Models.DicaCategoria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaCategoriasController",
+    "Method": "PutDicaCategoria",
+    "RelativePath": "api/DicaCategorias/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dicaCategoria",
+        "Type": "ExtremeHelp.Api.Models.DicaCategoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaCategoriasController",
+    "Method": "DeleteDicaCategoria",
+    "RelativePath": "api/DicaCategorias/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaPreparacaosController",
+    "Method": "GetDicaPreparacoes",
+    "RelativePath": "api/DicaPreparacaos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ExtremeHelp.Api.Models.DicaPreparacao, ExtremeHelp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaPreparacaosController",
+    "Method": "PostDicaPreparacao",
+    "RelativePath": "api/DicaPreparacaos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dicaPreparacao",
+        "Type": "ExtremeHelp.Api.Models.DicaPreparacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExtremeHelp.Api.Models.DicaPreparacao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaPreparacaosController",
+    "Method": "GetDicaPreparacao",
+    "RelativePath": "api/DicaPreparacaos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExtremeHelp.Api.Models.DicaPreparacao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaPreparacaosController",
+    "Method": "PutDicaPreparacao",
+    "RelativePath": "api/DicaPreparacaos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dicaPreparacao",
+        "Type": "ExtremeHelp.Api.Models.DicaPreparacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExtremeHelp.Api.Controllers.DicaPreparacaosController",
+    "Method": "DeleteDicaPreparacao",
+    "RelativePath": "api/DicaPreparacaos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\definitivo\\ExtremeHelp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95400AF-D0B0-4B97-A56B-A483A4D9404D}|ExtremeHelp.WebApp\\ExtremeHelp.WebApp.csproj|c:\\definitivo\\extremehelp\\extremehelp.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95400AF-D0B0-4B97-A56B-A483A4D9404D}|ExtremeHelp.WebApp\\ExtremeHelp.WebApp.csproj|solutionrelative:extremehelp.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\controllers\\dicacategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\controllers\\dicacategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\models\\dicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\models\\dicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\controllers\\dicapreparacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\controllers\\dicapreparacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95400AF-D0B0-4B97-A56B-A483A4D9404D}|ExtremeHelp.WebApp\\ExtremeHelp.WebApp.csproj|c:\\definitivo\\extremehelp\\extremehelp.webapp\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95400AF-D0B0-4B97-A56B-A483A4D9404D}|ExtremeHelp.WebApp\\ExtremeHelp.WebApp.csproj|solutionrelative:extremehelp.webapp\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95400AF-D0B0-4B97-A56B-A483A4D9404D}|ExtremeHelp.WebApp\\ExtremeHelp.WebApp.csproj|c:\\definitivo\\extremehelp\\extremehelp.webapp\\controllers\\dicaspreparacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95400AF-D0B0-4B97-A56B-A483A4D9404D}|ExtremeHelp.WebApp\\ExtremeHelp.WebApp.csproj|solutionrelative:extremehelp.webapp\\controllers\\dicaspreparacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\models\\dicapreparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\models\\dicapreparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|c:\\definitivo\\extremehelp\\extremehelp.api\\migrations\\20250608201005_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C074-2605-4635-99E4-CEC773BC9689}|ExtremeHelp.Api\\ExtremeHelp.Api.csproj|solutionrelative:extremehelp.api\\migrations\\20250608201005_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlertasController.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.WebApp\\Controllers\\AlertasController.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.WebApp\\Controllers\\AlertasController.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.WebApp\\Controllers\\AlertasController.cs",
+              "RelativeToolTip": "ExtremeHelp.WebApp\\Controllers\\AlertasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:02:16.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\appsettings.json",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\appsettings.json",
+              "RelativeToolTip": "ExtremeHelp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T19:50:14.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Program.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Program.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:59:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:13:57.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:49:58.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DicaCategoria.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Models\\DicaCategoria.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Models\\DicaCategoria.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Models\\DicaCategoria.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Models\\DicaCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:46:51.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DicaCategoriasController.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Controllers\\DicaCategoriasController.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Controllers\\DicaCategoriasController.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Controllers\\DicaCategoriasController.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Controllers\\DicaCategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:31:21.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DicaPreparacaosController.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Controllers\\DicaPreparacaosController.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Controllers\\DicaPreparacaosController.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Controllers\\DicaPreparacaosController.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Controllers\\DicaPreparacaosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:32:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExtremeHelp.WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:08:38.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlertasController.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Controllers\\AlertasController.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Controllers\\AlertasController.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Controllers\\AlertasController.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Controllers\\AlertasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:28:57.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DicaPreparacao.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Models\\DicaPreparacao.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Models\\DicaPreparacao.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Models\\DicaPreparacao.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Models\\DicaPreparacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:47:05.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Models\\Alerta.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Models\\Alerta.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Models\\Alerta.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Models\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:46:40.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DicasPreparacaoController.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.WebApp\\Controllers\\DicasPreparacaoController.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.WebApp\\Controllers\\DicasPreparacaoController.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.WebApp\\Controllers\\DicasPreparacaoController.cs",
+              "RelativeToolTip": "ExtremeHelp.WebApp\\Controllers\\DicasPreparacaoController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:03:09.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250608201005_InitialDatabase.cs",
+              "DocumentMoniker": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Migrations\\20250608201005_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "ExtremeHelp.Api\\Migrations\\20250608201005_InitialDatabase.cs",
+              "ToolTip": "C:\\definitivo\\ExtremeHelp\\ExtremeHelp.Api\\Migrations\\20250608201005_InitialDatabase.cs",
+              "RelativeToolTip": "ExtremeHelp.Api\\Migrations\\20250608201005_InitialDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:10:05.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
