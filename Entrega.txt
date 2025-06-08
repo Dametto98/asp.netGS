@@ -1,0 +1,10 @@
+Projeto ExtremeHelp
+GlobalSolution - FIAP 2025
+
+Equipe: Guilherme Janunzzi e Caike Dametto 
+
+Link do Github: https://github.com/Dametto98/asp.netGS
+
+Link do Descritivo: https://www.youtube.com/watch?v=yrrTpVJyVPw
+
+Link do Pitch: https://www.youtube.com/watch?v=usxKACSjlVQ
